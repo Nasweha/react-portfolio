@@ -1,0 +1,98 @@
+.progress-bar{
+width: 20px ;
+height: 30px;
+
+
+
+}
+.skl{
+    width: 100%;
+    
+}
+/* .skill{
+    background-color: white;
+width: 10%;
+height: 150px;
+gap: 2rem;
+margin-bottom: 2rem; */
+     /* display: flex;
+    align-items: center;
+    justify-content: space-between;  */
+ /* }   */
+
+ .skill-container{
+    width: 100%;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+ }
+
+
+
+.CircularProgressbar{
+    width: 100px;
+    height: 100px;
+
+ 
+    
+    
+}
+.bars{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.progress__circle{
+
+}
+
+.CircularProgressbar-path{
+    stroke: #0ef !important;
+}
+.CircularProgressbar-trail{
+ stroke: rgb(225, 218, 218) !important;
+}
+.CircularProgressbar-text{
+stroke: rgb(243, 238, 238) !important;
+       
+    text-align: center;
+}
+
+.skill__title{
+    margin-top: 1rem;
+    color: rgb(255, 254, 254);
+    text-align: center;
+}
+
+
+.code{
+    
+    
+    width: 150px;
+    height: auto;  
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    
+   
+}
+
+/* @media (mix-width: 600px) {
+   
+    .code {
+      width: calc(50% - 20px); /* Set width for smaller screens */
+    
+  /* } */ 
+
+  .project{
+    overflow-x: hidden;
+    /* margin: auto;
+    width: 100%; */
+    /* align-items: center;
+    display:flex;
+    justify-content: center; */
+   
+
+}

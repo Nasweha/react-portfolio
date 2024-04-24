@@ -1,0 +1,48 @@
+.projects{
+    overflow-x: hihdden;
+    margin: auto;
+    width: 100%;
+    align-items: center;
+    display:flex;
+    justify-content: center;
+   
+
+}
+.projects h3{
+    color:  rgb(80, 214, 235);
+    text-align: center;
+    padding: 1rem;
+}
+.projects img{
+    margin-bottom: 1rem;
+    
+    
+}
+.head{
+    color: white;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.card{
+    margin: 1rem;
+    padding: 1rem ;
+    width: 290px;
+    height: auto;
+    background-color: rgb(30, 29, 29);
+    border: 1px solid rgb(43, 42, 42);
+    box-shadow: rgba(67, 71, 85, 0.27) 0px 0px 0.25em, rgba(90, 125, 188, 0.05) 0px 0.25em 1em;
+}
+
+.but{margin: 0.7rem;
+    padding: 0.8rem;
+    border-radius: 2rem;
+    border: 1px solid rgb(104, 213, 230);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+   
+}
+.but a{
+    text-decoration: none;
+}

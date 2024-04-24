@@ -1,0 +1,72 @@
+.about{
+
+   overflow-x: hidden;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* padding: 0rem 9rem; */
+    padding: 2rem 3rem;
+
+    color: white;
+    margin: auto;
+    /* gap: 4rem; */
+    top: 0;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.about h3{
+    
+    text-align: center;
+}
+
+.para{
+    text-align: justify;
+}
+.nasimg{
+    /* margin: 1.6rem; */
+    border-radius: 200px;
+    position: relative;
+    padding: 3rem 4rem;
+    top: 0;
+    
+
+}
+.details{
+    width: 750px;
+    height:300px ;
+}
+
+/* .all-details{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+   
+    
+   
+} */
+
+.nasi{
+    width: 250px;
+    height: 250px;
+    border-radius: 250px;
+    border: 2px solid #0ef;
+    position: absolute;
+    top: 6rem;
+   
+   
+
+   
+    
+}
+#about h3{
+    text-align: center;
+    margin-top: 5rem;
+    color: rgb(80, 214, 235);
+}
+.shape{
+    width:320px;
+
+    /* width: 660px; */
+    /* padding-right: 4rem; */
+
+}
